@@ -1,0 +1,37 @@
+c:\users\student1\documents\visual studio 2012\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.dll
+c:\users\student1\documents\visual studio 2012\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.pdb
+c:\users\student1\documents\visual studio 2012\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.dll
+c:\users\student1\documents\visual studio 2012\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.pdb
+C:\Users\student1\Documents\Visual Studio 2012\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.dll
+C:\Users\student1\Documents\Visual Studio 2012\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.dll
+C:\Users\student1\Documents\Visual Studio 2012\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.xml
+C:\Users\student1\Documents\Visual Studio 2012\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.xml
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.dll.config
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.dll
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.pdb
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.dll
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.dll
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.xml
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.xml
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.dll
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.pdb
+C:\Users\student\source\repos\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.csprojResolveAssemblyReference.cache
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.dll
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.pdb
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.dll
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.dll
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.xml
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.xml
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.csprojResolveAssemblyReference.cache
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.dll
+C:\Users\student1\Desktop\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.pdb
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.dll
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\bin\CryptoConvert.pdb
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.dll
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.dll
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\bin\Newtonsoft.Json.xml
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\bin\System.Net.Http.Formatting.xml
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.csprojResolveAssemblyReference.cache
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.dll
+C:\Users\student1\Desktop\Kenny_PA1\Projects\CryptoConvert\CryptoConvert\obj\Debug\CryptoConvert.pdb
